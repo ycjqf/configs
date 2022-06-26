@@ -1,0 +1,7 @@
+{
+  "files.autoSave": "onWindowChange",
+  "editor.fontFamily": "SF Mono",
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": true
+}
